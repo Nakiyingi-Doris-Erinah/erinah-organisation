@@ -20,7 +20,7 @@ h1{
   font-family: Maiandra GD;
   font-size: 65px;
   font-weight: bold;
-  color: dimgrey;
+  color: #07080B
 }
 h2{
   font-weight: bold;
@@ -110,7 +110,7 @@ div#bag{
 
 }
 #skills{
-  background:  whitesmoke;
+  background:rgb(179, 182, 185)
 }
 #footer{
   text-align: center;
