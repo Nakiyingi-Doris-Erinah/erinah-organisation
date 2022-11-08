@@ -1,0 +1,122 @@
+
+*{
+  padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+label.logo{
+    font-weight: bold;
+     color:gold;
+     font-family: Ravie;
+     font-size: 40px; 
+     float: right;   
+}
+header{
+  color: aliceblue;
+  background-color: #07080B;
+}
+h1{
+  font-family: Maiandra GD;
+  font-size: 65px;
+  font-weight: bold;
+  color: dimgrey;
+}
+h2{
+  font-weight: bold;
+  color: ;
+  font-size: 100px;
+}
+h3{
+  font-family: Maiandra GD;
+}
+p{
+  font-family: Maiandra GD;
+  font-size: 20px;
+  color:#07080B
+}
+.navbar{
+background-color: #2a2d36;
+position:initial;
+}
+ nav ul{
+     float:right;
+     margin-right: 20px;
+     text-transform: uppercase;
+   }
+ .today{
+background-image: url('images/hd-wallpaper3.jpg');
+  height: 500px;
+  color: whitesmoke;
+  text-align: center;
+  padding-top: 70px;
+ }
+ #two{
+  font-size: 25px;
+ }
+ .btn-md{
+  display: inline-block;
+  background: #FEC544;
+  color: #08080A;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 8px 36px;
+  margin-top: 20px;
+  border-radius: 50px;
+  border: 2px solid #FEC544;
+  transition: all 0.3s ease;
+}
+.btn-md:hover{
+  color: #FEC544;
+  background: none;
+}
+ a.active,a:hover{
+  color: black;
+ }
+ .showcase{
+  background-color: black;
+ }
+ .navbar ul li a{
+  color: #7698f8;
+  font-weight: bold;
+  transition: all 0.5s ease;
+}
+.navbar ul li a span{
+  color: #0831a2;
+  font-weight: bold;
+  transition: all 0.5s ease;
+}
+ .navbar ul li a:hover{
+  color: #FEC544;
+}
+.showcase{
+  background-color: black;
+}
+div.row{
+  text-decoration: white;
+}
+.text-secondary{
+  color: #FEC544;
+}
+div#bag{
+ background-image: url('images/hd-wallpaper1.jpg');
+}
+#go{
+  font-size: 17px;
+  color: whitesmoke;
+  border-radius: 3px;
+  padding: 7px 13px;
+  font-size: 20px;
+
+}
+#skills{
+  background:  whitesmoke;
+}
+#footer{
+  text-align: center;
+  background: #FEC544;
+  padding: 30px 0;
+  color: #07080B;
+  font-weight: 700;
+ 
+}
